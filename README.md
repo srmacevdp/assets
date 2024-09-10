@@ -11,6 +11,13 @@ This repository contains **assets** that will help in optimizing our website for
 Your contribution is important to keep things running smoothly. Let’s work together to create an awesome website! 💻✨
 
 
+## 📝 Instructions
+
+1. 🖼️ **Put image of posters in PNG format**.
+2. ✏️ **Name should be short and clear** for the poster/image.
+3. 🚫 **Do not use generic names like** `poster(1).png` or `image(1).png`.
+
+
 # Code Example for Optimized Asset Usage
 
 This example demonstrates how to use both **local assets** and **GitHub raw assets** for optimized loading and website performance. Using GitHub raw links can help reduce load times when the assets are available online, while local assets are used when they are stored in your project.
