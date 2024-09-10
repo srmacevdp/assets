@@ -1,0 +1,32 @@
+{
+  "bod_2020_21": [
+    {
+      "name": "Mr. Saivarun",
+      "position": "President",
+      "instagram": "https://instagram.com/saivarun",
+      "linkedin": "https://linkedin.com/in/saivarun",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG37.jpeg"
+    },
+    {
+      "name": "Mr. Shashidar Ganesh. G.",
+      "position": "Vice President",
+      "instagram": "https://instagram.com/shashidar_ganesh",
+      "linkedin": "https://linkedin.com/in/shashidar-ganesh",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG38.jpeg"
+    },
+    {
+      "name": "Arshiya Ranjith",
+      "position": "Secretary",
+      "instagram": "https://instagram.com/arshiya_ranjith",
+      "linkedin": "https://linkedin.com/in/arshiya-ranjith",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG39.jpeg"
+    },
+    {
+      "name": "Mr. Shantoash C.",
+      "position": "Joint Secretary",
+      "instagram": "https://instagram.com/shantoash_c",
+      "linkedin": "https://linkedin.com/in/shantoash-c",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG40.jpeg"
+    }
+  ]
+}
