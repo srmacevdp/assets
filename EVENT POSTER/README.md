@@ -1,4 +1,5 @@
-INSTRUCTION - \n
-1.PUT IMAGE OF POSTERS IN PNG.\n
-2.NAME SHOULD BE SHORT AND CLEAR OF THE POSTER/IMAGE.\n
-3.DO NOT PUT NAMES AS poster(1).png , image(1).png.
+## Instructions
+
+1. **Put image of posters in PNG format**.
+2. **Name should be short and clear** for the poster/image.
+3. **Do not use generic names like** `poster(1).png` or `image(1).png`.
