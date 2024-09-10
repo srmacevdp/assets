@@ -1,5 +1,88 @@
 {
-  Name:Mr. PRAVEEN;
-  Position:TECH HEAD
-
+  "bod_senior": [
+    {
+      "name": "Dr. S. Prasanna Devi",
+      "position": "Head of Department",
+      "instagram": "https://instagram.com/dr_prasanna",
+      "linkedin": "https://linkedin.com/in/dr-prasanna-devi",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG1.jpeg"
+    },
+    {
+      "name": "Dr. G. Paavai Anand",
+      "position": "Mentor | Faculty Co-ordinator",
+      "instagram": "https://instagram.com/dr_paavai",
+      "linkedin": "https://linkedin.com/in/dr-paavai-anand",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG2.jpeg"
+    },
+    {
+      "name": "Mrs. S. Niveditha",
+      "position": "Mentor | Faculty Co-ordinator",
+      "instagram": "https://instagram.com/mrs_niveditha",
+      "linkedin": "https://linkedin.com/in/s-niveditha",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG3.jpeg"
+    },
+    {
+      "name": "Ms. Jothishreyaa",
+      "position": "President",
+      "instagram": "https://instagram.com/ms_jothishreyaa",
+      "linkedin": "https://linkedin.com/in/jothishreyaa",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG4.jpeg"
+    },
+    {
+      "name": "Mr. Kirthan Nadar",
+      "position": "Head of Logistics",
+      "instagram": "https://instagram.com/kirthan_nadar",
+      "linkedin": "https://linkedin.com/in/kirthan-nadar",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG5.jpeg"
+    },
+    {
+      "name": "Mr. Aman Kumar",
+      "position": "Head of Secretery & Public Relation",
+      "instagram": "https://instagram.com/aman_kumar",
+      "linkedin": "https://linkedin.com/in/aman-kumar",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG6.jpeg"
+    },
+    {
+      "name": "Mr. Praveen M S",
+      "position": "Technical Head",
+      "instagram": "https://instagram.com/praveen_ms",
+      "linkedin": "https://linkedin.com/in/praveen-ms",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG7.jpeg"
+    },
+    {
+      "name": "Ms. Nandikha T",
+      "position": "Head of Content",
+      "instagram": "https://instagram.com/nandikha_t",
+      "linkedin": "https://linkedin.com/in/nandikha-t",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG8.jpeg"
+    },
+    {
+      "name": "Mr. Taksh Pandya",
+      "position": "Head of Logistics & Operations",
+      "instagram": "https://instagram.com/taksh_pandya",
+      "linkedin": "https://linkedin.com/in/taksh-pandya",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG9.jpeg"
+    },
+    {
+      "name": "Mr. Rohan Ganesh",
+      "position": "Head of Design",
+      "instagram": "https://instagram.com/rohan_ganesh",
+      "linkedin": "https://linkedin.com/in/rohan-ganesh",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG10.jpeg"
+    },
+    {
+      "name": "Ms. Athulya",
+      "position": "Treasurer",
+      "instagram": "https://instagram.com/athulya",
+      "linkedin": "https://linkedin.com/in/athulya",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG11.jpeg"
+    },
+    {
+      "name": "Mr. Rahul",
+      "position": "Head of Resource Management",
+      "instagram": "https://instagram.com/rahul",
+      "linkedin": "https://linkedin.com/in/rahul",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG12.jpeg"
+    }
+  ]
 }
