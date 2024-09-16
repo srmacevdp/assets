@@ -1,1 +1,75 @@
 //THIS IS FOR CURRENT JUNIOR BOD's 
+{
+  "bod_junior": [
+    {
+      "name": "Mr. Kirthan Nadar",
+      "position": "Head of Logistics",
+      "instagram": "https://instagram.com/kirthan_03?igshid=MzRlODBiNWFlZA==",
+      "linkedin": "https://www.linkedin.com/in/thansidh-kirthan-b50992283",
+      "image_url": "https://raw.githubusercontent.com/srmacevdp/assets/main/BOD%20IMG/BOD-IMG1.jpeg"
+    },
+    {
+      "name": "Mr. Aman Kumar",
+      "position": "Head of Secretary & Public Relations",
+      "instagram": "https://instagram.com/aman.kx?igshid=MzRlODBiNWFlZA==",
+      "linkedin": "https://www.linkedin.com/in/aman-kumar-018078250",
+      "image_url": "assets/BOD poster/Ace photo.jpeg"
+    },
+    {
+      "name": "Ms. Yeshaswi P",
+      "position": "Joint Treasurer",
+      "instagram": "https://www.instagram.com/chowshiiii?igsh=MW81cm9uMTdqMXR6Ng==",
+      "linkedin": "https://www.linkedin.com/in/yeshaswiprakash?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "image_url": "assets/BOD poster/Yeshaswi Prakash_ Joint Treasurer.png"
+    },
+    {
+      "name": "Ms. Jaishree B",
+      "position": "Joint Head of Design",
+      "instagram": "https://www.instagram.com/jaishree_baskaran?igsh=cGZ0d3BkN25yNTVz",
+      "linkedin": "https://www.linkedin.com/in/jaishree-b-ab7718235?utm-",
+      "image_url": "assets/BOD poster/Jaishree Baskaran_joint design head.jpg"
+    },
+    {
+      "name": "Ms. Janani Giridharan",
+      "position": "Joint Technical Head & People Officer",
+      "instagram": "#",
+      "linkedin": "#",
+      "image_url": "assets/BOD poster/Janani Giridharan Joint Technical Head.png"
+    },
+    {
+      "name": "Mr. Antony Saju David",
+      "position": "Joint Head of Working Committee",
+      "instagram": "https://www.instagram.com/itzantonyhere/",
+      "linkedin": "https://in.linkedin.com/in/antony-saju-david",
+      "image_url": "assets/BOD poster/Antony Saju David_Joint Head of WC_PR.jpg"
+    },
+    {
+      "name": "Mr. Maadwa Krishnaa L.V",
+      "position": "Joint Head of Content & Social Media",
+      "instagram": "https://www.instagram.com/maadwa_1505/?hl=en",
+      "linkedin": "http://www.linkedin.com/in/maadwa",
+      "image_url": "assets/BOD poster/Maadwa Krishnaa_ Joint head of Content & Social media_.jpg"
+    },
+    {
+      "name": "Mr. Bhuvanesh S",
+      "position": "Joint Head of Logistics and Operations",
+      "instagram": "https://www.instagram.com/bhuvanesh_storm?igsh=MXZ3NTMzbjhmbmZ1Ng%3D%3D&utm_source=qr",
+      "linkedin": "https://www.linkedin.com/in/bhuvanesh-sridhar-213494286/",
+      "image_url": "assets/BOD poster/Bhuvanesh S joint head of logistics & Operations.jpg"
+    },
+    {
+      "name": "Mr. Mugunthan D",
+      "position": "Joint Head of Resource Management",
+      "instagram": "https://www.instagram.com/mugunthan_78?igsh=b29qcXJ5dTg2MjYz",
+      "linkedin": "https://in.linkedin.com/in/mugunthan-dinesh-4b8065294",
+      "image_url": "assets/BOD poster/20240731_135025~2.jpg"
+    },
+    {
+      "name": "Ms. Manasa Lal",
+      "position": "Joint Head of Outreach",
+      "instagram": "https://www.instagram.com/manasa_lal?igsh=dWNmaW81bXY1emxr",
+      "linkedin": "https://www.linkedin.com/in/manasa-lal-6b3799274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "image_url": "assets/BOD poster/Manasa Lal_Joint Head of Outreach.JPG"
+    }
+  ]
+}
