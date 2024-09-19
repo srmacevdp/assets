@@ -404,7 +404,107 @@
     }
   ],
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeK-EQpuVzOnjfQmXbxrrG07fGeL4yh0AZ4eeLOu7JJMSB4PA/viewform"
+},
+  {
+  "name": "MINES",
+  "description": "\"Real-Life Mines\" is a strategic outdoor game played on a large grid marked on the ground. Players take turns stepping on squares, trying to avoid hidden \"mines\" placed by the organizers. Each safe step allows them to continue, but stepping on a mine costs them one of their two lives. Losing both lives means the team is out of the game. The challenge is to navigate as many safe squares as possible, balancing risk and strategy to avoid the hidden dangers.",
+  "image": "event posters/Non-Technical/suriving the titanic.png",
+  "date": "27th September 2024",
+  "time": "10.00 A.M. - 01.00 P.M.",
+  "registrationFee": {
+    "2Participants": "₹120/-",
+    "3Participants": "₹180/-"
+  },
+  "venue": "Offline",
+  "rules": [
+    "A team can consist of 2-3 participants.",
+    "Each participant or team must have a unique identifier or team name.",
+    "Punctuality is mandatory.",
+    "During the game, one participant must be on the minefield and the other participants of the team must stay outside and guide them to make the next step.",
+    "Each team will be provided with a blank paper simulating the minefield to track the locations of mines, record player moves, and plan their logical strategies.",
+    "Teams earn points for landing on a safe block or flagging a mine.",
+    "The time limit to make each move will be 50 seconds, and points will be deducted if failed to do so.",
+    "Each team would be given 2 lives, and each life would be lost when landed on a mine.",
+    "A hint can be obtained by answering a question or deducing a riddle.",
+    "The team with the most points wins."
+  ],
+  "contactPersons": [
+    {
+      "name": "Pratham Mehta",
+      "phone": "+91 6353262649"
+    },
+    {
+      "name": "Caroline Vineeta S L",
+      "phone": "+91 7338999541"
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdV9RexFdgh2-aVkV7kDYYYjAa32dniB80_6uBT0jJGNKwaEA/viewform"
+},{
+  "name": "SHERLOCKED!",
+  "description": "Unleash your detective skills in a fast-paced mystery-solving competition. Teams will race to solve a series of clues, puzzles, and interact with characters to crack the case.",
+  "image": "event posters/Gaming/sherlocked.png",
+  "date": "27th September 2024",
+  "time": "11.00 A.M. - 02.00 P.M.",
+  "registrationFee": {
+    "4Participants": "₹200/-"
+  },
+  "venue": "Offline",
+  "rules": [
+    "Each team must have 4 members.",
+    "This is a Single round event.",
+    "Teams must solve clues sequentially to advance.",
+    "The first team to solve the mystery or the team with the most progress wins.",
+    "No sabotage or collaboration with other teams is allowed.",
+    "Breaking rules or tampering with clues results in penalties.",
+    "Only notebooks and pens are allowed.",
+    "Hints available at checkpoints with time penalties."
+  ],
+  "contactPersons": [
+    {
+      "name": "Rishabh Roy Choudhury",
+      "phone": "+91 9884832976"
+    },
+    {
+      "name": "B Madhav Sai",
+      "phone": "+91 7306512345"
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScjxJr5YOJKuH-_p43U40LbI5Qa_GGL9jNUJyKyq_RSBNUQ1g/viewform"
+},
+  {
+  "name": "Tech Catalyst",
+  "description": "A 'Tech Catalyst' event is a competition where teams work together to solve a given problem using a dataset provided by the organizers. The goal is to analyze the data, draw insights, or make predictions based on what they find. Participants will use tools like Excel, PowerPoint, Tableau, or Power BI to visualize their results and present their solutions. The focus is on how creatively and effectively teams can apply data science techniques to address the problem. Overall, the event encourages teams to think critically and use the data to develop meaningful solutions.",
+  "image": "event posters/Technical/SQLIZE.png",
+  "date": "27th September 2024",
+  "time": "09.00 A.M. - 03.00 P.M.",
+  "registrationFee": {
+    "3Participants": "₹180/-"
+  },
+  "rules": [
+    "Teams must consist of 3 members, with all members encouraged to contribute equally to the tasks.",
+    "Only the dataset provided by the organizers is allowed. Teams must use this data for analysis and solutions.",
+    "Teams are encouraged to creatively analyze and manipulate the dataset using the tools provided, such as Excel and Power BI.",
+    "Participants can only use Excel, Power BI, Tableau, and PowerPoint for data analysis, visualization, and presentation.",
+    "The use of any other software or programming languages beyond the permitted tools is not allowed.",
+    "Final presentation files (PowerPoint, Excel, and Power BI) must be submitted by the deadline specified by the organizers.",
+    "Judges will evaluate the precision and correctness of the team's findings.",
+    "Solutions will be judged based on their creativity and how applicable they are in real-world scenarios."
+  ],
+  "contactPersons": [
+    {
+      "name": "Sharavana Ragav S",
+      "phone": "+91 8148394601"
+    },
+    {
+      "name": "S.R.Keerttna",
+      "phone": "+91 9080589716"
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeEJ6gv53gcggmRin09ix-FDFSqyP3TcYPcPRMXCayDLRMySA/viewform"
 }
+
+
+
 
 
 
