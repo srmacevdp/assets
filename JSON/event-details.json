@@ -616,7 +616,50 @@
     }
   ],
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform"
+},
+  {
+  "name": "Web Development: Building the Digital Frontier",
+  "description": "Enter the Cybersecurity Odyssey: Deciphering the Digital Realm! Explore the world of Cybersecurity, dissect its anatomy, and discover the art of mitigation. This hands-on workshop covers cybersecurity basics, its importance, technical skills, and live demonstrations of various tools. Join us for our Ubertech '23 Pre-Symposium Workshop to learn everything you need to know about securing the digital frontier.",
+  "image": "event posters/workshops/web_develpment.png",
+  "date": "10th October 2023",
+  "time": "10:00 AM - 03:00 PM",
+  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+  "fee": "₹200",
+  "rules": [
+    "Participants must attend the event in person at the given venue.",
+    "Basic knowledge of web development and networking is preferred.",
+    "No external tools or software will be required beyond what is provided at the workshop.",
+    "Participants are encouraged to bring laptops for hands-on learning, though it is not mandatory."
+  ],
+  "topicsCovered": [
+    "Cybersecurity basics",
+    "Importance of Cybersecurity",
+    "Technical skills and networking",
+    "Live demonstration of tools"
+  ],
+  "resourcePersons": [
+    {
+      "name": "Anirudh K",
+      "affiliation": "Comcast (Alumnus, SRMIST VDP)"
+    }
+  ],
+  "contactPerson": [
+    {
+      "name": "Athulya S S",
+      "phone": "+91 8939927354"
+    },
+    {
+      "name": "L Adithi",
+      "phone": "N/A"
+    },
+    {
+      "name": "Jothishreyaa",
+      "phone": "N/A"
+    }
+  ],
+  "registrationLink": "https://forms.gle/kSNbssWFNmbANqtU7"
 }
+
 
    
 ]
