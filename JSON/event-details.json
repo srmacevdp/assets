@@ -543,5 +543,45 @@
     ]
   },
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSesQPAZXFO_5-ES2jSiXYwkFuxZWHEiY0UbPcnwKoYtveEzcA/viewform"
+},
+  {
+  "name": "Trivia Trek",
+  "description": "Are you a fan of web series and movies? Then Trivia Trek is your perfect match! This exciting quiz features multiple rounds like Connections, Guess the Song, and a classic Quiz Round, all designed to test your fandom knowledge. Whether you’re competing solo or with a team, Trivia Trek offers a fun and challenging experience across your favorite genres. Join us and see if you can conquer the fandom universe!",
+  "image": "event posters/Non-Technical/Block and Tackle updated updated.png",
+  "date": "26th September 2024",
+  "time": {
+    "Day 1": "09:00 AM - 02:00 PM"
+  },
+  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+  "fee": [
+    "₹120 for a team of 2 participants",
+    "₹180 for a team of 3 participants"
+  ],
+  "rules": [
+    "A team can consist of 2 to 3 members.",
+    "Each participant or team must have a unique identifier or team name.",
+    "In the event of a tie, a rapid-fire round will determine the winner.",
+    "No use of external help or electronic devices during the quiz (e.g., smartphones, smart watches).",
+    "Prizes will be awarded to the top two teams.",
+    "Any changes to team members must be notified to the organizers before the event begins.",
+    "Participants must attend every round. By the end of the third round, the winners will be selected."
+  ],
+  "importantDates": {
+    "registrationDeadline": "24th September 2024"
+  },
+  "contact": {
+    "coordinators": [
+      {
+        "name": "Jalanika R R",
+        "phone": "+91 9087299370"
+      },
+      {
+        "name": "Surya Sivakumar",
+        "phone": "+91 7603970727"
+      }
+    ]
+  },
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfx5MoWCef5uOtrOberiuehCJWwgLDWNQUpECskBWLnvZLbjQ/viewform"
 }
+
 ]
