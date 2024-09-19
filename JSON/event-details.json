@@ -210,6 +210,41 @@
     }
   ],
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdXW7fJ9rCQ0esPhoagD4_aRRvq2GAoasFZ4aYG3T1TwCZwIA/viewform"
+},
+  {
+  "name": "Generative AI by Nxtwave",
+  "description": "Learn how to craft the right questions or instructions to guide AI models, especially Large Language Models (LLMs), to produce desired outcomes with our Hands-on Workshop on - 'AI Nexus'!",
+  "image": "event posters/workshops/generative_ai.png",
+  "date": "19 September 2024",
+  "time": "09.00 am - 3.00 pm",
+  "registrationFee": "₹250",
+  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+  "resourcePersons": [
+    {
+      "name": "MRS. Sarvani",
+      "designation": "Scientist - E"
+    }
+  ],
+  "topicsCovered": [
+    "Introduction",
+    "Why AI",
+    "How AI Works",
+    "Techniques Of AI",
+    "Implementation Of Generative AI",
+    "Applications and Models",
+    "Risk And Misuses",
+    "LLM Implementation",
+    "Introduction To NLP",
+    "Working Of NLP"
+  ],
+  "contactPerson": [
+    {
+      "name": "Bhuvanesh S",
+      "phone": "+91 6380953383"
+    }
+  ],
+  "registrationLink": "https://forms.gle/BpXZhQoXomUzdcUd6"
 }
+
 
 ]
