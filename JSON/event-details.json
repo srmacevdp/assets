@@ -458,36 +458,27 @@
     ],
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeEJ6gv53gcggmRin09ix-FDFSqyP3TcYPcPRMXCayDLRMySA/viewform"
   },
+ [
   {
-  "name": "Techflix",
-  "description": "Techflix is an exciting event designed to showcase innovative short films that explore tech, editing and filmmaking skills. It's your chance to shine and share your awesome breakthroughs with technology and make it Tech-tastic Film. Make sure to add some Drama to your short film and make it engaging. We're looking for tech-films that make complex ideas fun and interesting by engagingly blending education and entertainment!",
-  "image": "event posters/Non-Technical/paparazzi poster.png",
-  "date": "26th-27th September 2024",
-  "time": {
-    "Day 1": "10:00 AM - 11:00 AM",
-    "Day 2": "12:00 PM - 02:00 PM"
-  },
-  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
-  "fee": [
-    "₹180 for a team of 2 participants",
-    "₹200 for a team of 3 participants"
-  ],
-  "rules": [
-    "A team must consist of a minimum of 3 and a maximum of 4 participants.",
-    "Make sure to give your team a unique name!",
-    "The duration of the video should be a minimum of 5 minutes and a maximum of 7 minutes.",
-    "Since it’s a non-technical event, you can include anything you like, but it must contain some technical aspects.",
-    "You cannot use internet film layouts, the film should reflect your creativity and showcase your editing skills.",
-    "You must submit your film before the deadline. Late submissions will not be entertained.",
-    "The shooting of your film can be done anywhere.",
-    "Your short film must follow the theme. If it does not, your team will be disqualified.",
-    "Strictly no vulgarity or inappropriate scenes will be allowed in the video. Teams with such content will be disqualified."
-  ],
-  "importantDates": {
-    "registrationDeadline": "24th September 2024"
-  },
-  "contact": {
-    "coordinators": [
+    "name": "Techflix",
+    "description": "Techflix is an exciting event designed to showcase innovative short films that explore tech, editing and filmmaking skills. It's your chance to shine and share your awesome breakthroughs with technology and make it Tech-tastic Film. Make sure to add some Drama to your short film and make it engaging. We're looking for tech-films that make complex ideas fun and interesting by engagingly blending education and entertainment!",
+    "image": "event posters/Non-Technical/paparazzi poster.png",
+    "date": "26th-27th September 2024",
+    "time": "Day 1: 10:00 AM - 11:00 AM, Day 2: 12:00 PM - 02:00 PM",
+    "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+    "fee": "₹180 for a team of 2 participants, ₹200 for a team of 3 participants",
+    "rules": [
+      "A team must consist of a minimum of 3 and a maximum of 4 participants.",
+      "Make sure to give your team a unique name!",
+      "The duration of the video should be a minimum of 5 minutes and a maximum of 7 minutes.",
+      "Since it's a non-technical event, you can include anything you like, but it must contain some technical aspects.",
+      "You cannot use internet film layouts, the film should reflect your creativity and showcase your editing skills.",
+      "You must submit your film before the deadline. Late submissions will not be entertained.",
+      "The shooting of your film can be done anywhere.",
+      "Your short film must follow the theme. If it does not, your team will be disqualified.",
+      "Strictly no vulgarity or inappropriate scenes will be allowed in the video. Teams with such content will be disqualified."
+    ],
+    "contactPerson": [
       {
         "name": "Vaasavi G",
         "phone": "+91 6382941735"
@@ -496,37 +487,27 @@
         "name": "Irram Fatima",
         "phone": "+91 8925703367"
       }
-    ]
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSesQPAZXFO_5-ES2jSiXYwkFuxZWHEiY0UbPcnwKoYtveEzcA/viewform"
   },
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSesQPAZXFO_5-ES2jSiXYwkFuxZWHEiY0UbPcnwKoYtveEzcA/viewform"
-},
   {
-  "name": "Trivia Trek",
-  "description": "Are you a fan of web series and movies? Then Trivia Trek is your perfect match! This exciting quiz features multiple rounds like Connections, Guess the Song, and a classic Quiz Round, all designed to test your fandom knowledge. Whether you’re competing solo or with a team, Trivia Trek offers a fun and challenging experience across your favorite genres. Join us and see if you can conquer the fandom universe!",
-  "image": "event posters/Non-Technical/Block and Tackle updated updated.png",
-  "date": "26th September 2024",
-  "time": {
-    "Day 1": "09:00 AM - 02:00 PM"
-  },
-  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
-  "fee": [
-    "₹120 for a team of 2 participants",
-    "₹180 for a team of 3 participants"
-  ],
-  "rules": [
-    "A team can consist of 2 to 3 members.",
-    "Each participant or team must have a unique identifier or team name.",
-    "In the event of a tie, a rapid-fire round will determine the winner.",
-    "No use of external help or electronic devices during the quiz (e.g., smartphones, smart watches).",
-    "Prizes will be awarded to the top two teams.",
-    "Any changes to team members must be notified to the organizers before the event begins.",
-    "Participants must attend every round. By the end of the third round, the winners will be selected."
-  ],
-  "importantDates": {
-    "registrationDeadline": "24th September 2024"
-  },
-  "contact": {
-    "coordinators": [
+    "name": "Trivia Trek",
+    "description": "Are you a fan of web series and movies? Then Trivia Trek is your perfect match! This exciting quiz features multiple rounds like Connections, Guess the Song, and a classic Quiz Round, all designed to test your fandom knowledge. Whether you're competing solo or with a team, Trivia Trek offers a fun and challenging experience across your favorite genres. Join us and see if you can conquer the fandom universe!",
+    "image": "event posters/Non-Technical/Block and Tackle updated updated.png",
+    "date": "26th September 2024",
+    "time": "09:00 AM - 02:00 PM",
+    "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+    "fee": "₹120 for a team of 2 participants, ₹180 for a team of 3 participants",
+    "rules": [
+      "A team can consist of 2 to 3 members.",
+      "Each participant or team must have a unique identifier or team name.",
+      "In the event of a tie, a rapid-fire round will determine the winner.",
+      "No use of external help or electronic devices during the quiz (e.g., smartphones, smart watches).",
+      "Prizes will be awarded to the top two teams.",
+      "Any changes to team members must be notified to the organizers before the event begins.",
+      "Participants must attend every round. By the end of the third round, the winners will be selected."
+    ],
+    "contactPerson": [
       {
         "name": "Jalanika R R",
         "phone": "+91 9087299370"
@@ -535,72 +516,70 @@
         "name": "Surya Sivakumar",
         "phone": "+91 7603970727"
       }
-    ]
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfx5MoWCef5uOtrOberiuehCJWwgLDWNQUpECskBWLnvZLbjQ/viewform"
   },
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfx5MoWCef5uOtrOberiuehCJWwgLDWNQUpECskBWLnvZLbjQ/viewform"
-},
   {
-  "name": "VALORANT Gaming Event",
-  "description": "Prepare for the ultimate test of strategy, skill, and teamwork at the Valorant Gaming Event! Dive into the action-packed world of Valorant, where the best teams and players will face off in a high-stakes competition for glory. With fast-paced gameplay, strategic decision-making, and precise aim, every match promises intense battles and unforgettable moments.",
-  "date": "26th September 2024",
-  "time": "11:00 A.M. - 02:00 P.M.",
-  "registration": {
-    "fee": "₹300",
-    "team_size": 5,
-    "participants": "5 participants per team"
+    "name": "VALORANT Gaming Event",
+    "description": "Prepare for the ultimate test of strategy, skill, and teamwork at the Valorant Gaming Event! Dive into the action-packed world of Valorant, where the best teams and players will face off in a high-stakes competition for glory. With fast-paced gameplay, strategic decision-making, and precise aim, every match promises intense battles and unforgettable moments.",
+    "image": "event posters/Gaming/valorant.jpg",
+    "date": "26th September 2024",
+    "time": "11:00 A.M. - 02:00 P.M.",
+    "venue": "SRM IST VDP",
+    "fee": "₹300 for a team of 5 participants",
+    "rules": [
+      "5v5, Competitive mode.",
+      "Knockout stages, Best of 2 for playoffs, Best of 3 for finals.",
+      "Maps: Ascent, Bind, Haven, Split, Icebox, Breeze, Fracture, Lotus, Pearl.",
+      "Map Selection via Veto system.",
+      "Valorant account Level 20+.",
+      "Teams of 5 players (1 substitute allowed).",
+      "2 tactical pauses per map (1 minute each).",
+      "10-minute reconnection time, then substitute or play a man down.",
+      "Cheating results in disqualification.",
+      "All communication must be respectful."
+    ],
+    "contactPerson": [
+      {
+        "name": "Saranya Purushothaman",
+        "phone": "+91 7305708933"
+      },
+      {
+        "name": "Y.Sai Dheeraj",
+        "phone": "+91 7395961001"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc-0yXhqfkH7sB7r9GErpST6ckcXQPCIZxhK3Gket2jURHvdg/viewform"
   },
-  "rules_and_regulations": [
-    "5v5, Competitive mode.",
-    "Knockout stages, Best of 2 for playoffs, Best of 3 for finals.",
-    "Maps: Ascent, Bind, Haven, Split, Icebox, Breeze, Fracture, Lotus, Pearl.",
-    "Map Selection via Veto system.",
-    "Valorant account Level 20+.",
-    "Teams of 5 players (1 substitute allowed).",
-    "2 tactical pauses per map (1 minute each).",
-    "10-minute reconnection time, then substitute or play a man down.",
-    "Cheating results in disqualification.",
-    "All communication must be respectful."
-  ],
-  "contactPersons": [
-    {
-      "name": "Saranya Purushothaman",
-      "phone": "+91 7305708933"
-    },
-    {
-      "name": "Y.Sai Dheeraj",
-      "phone": "+91 7395961001"
-    }
-  ],
-  "register_link": "https://docs.google.com/forms/d/e/1FAIpQLSc-0yXhqfkH7sB7r9GErpST6ckcXQPCIZxhK3Gket2jURHvdg/viewform"
-},
   {
-  "name": "Vivid Vision: 2D Digital Art and Animation Contest",
-  "description": "Join our 2D Digital Art and Animation Contest, where creativity meets technology! Participants will have the opportunity to showcase their artistic talents by creating 2D images or animations based on a unique given theme. This event offers hands-on experience with tools like Photoshop, GIMP, Aseprite, and Piskel, helping to build a standout digital art portfolio.",
-  "image": "event posters/Non-Technical/Shark Tank.png",
-  "date": "26th September 2024",
-  "time": "01:00 PM - 04:00 PM",
-  "venue": "TBA",
-  "fee": "₹125/- for an individual",
-  "themes": [
-    "Post-Human Evolution: Illustrate the next stage of evolution after humans, focusing on how new life forms might look and behave.",
-    "Anachronistic Future: Depict a future where past technologies or aesthetics have made a comeback, blending old and new in surprising ways.",
-    "Cyberpunk Cityscapes: Neon-lit futuristic cities with towering skyscrapers, flying cars, and digital billboards."
-  ],
-  "rules": [
-    "Participants can only enter as a team of 2 to 3 members (maximum of 3 members). The theme will be announced at the start of the contest. Participants must create a 2D image or animation based on this theme.",
-    "Participants are requested to bring their laptops for designing.",
-    "Participants may use any 2D graphic design or animation software, such as Photoshop, GIMP, Aseprite, Piskel, Adobe Animate, etc.",
-    "All entries must be original works created by the participants. Use of pre-made assets is not allowed.",
-    "Results are evaluated based on Creativity and Originality, Artistic Skill, and Relevance to Theme.",
-    "After completion of the design, the image or the animation has to be submitted along with an Explanatory write-up (50 to 60 words) on how they have approached the theme along with the software used by them.",
-    "Animations can be made within the time range of 3 to 5 seconds.",
-    "This will be a one-round event, and the winners will be chosen based on this round.",
-    "This event will consist of only two winners."
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform",
-  "contact": {
-    "name": "Sai Shivaram L N / Sandhya A",
-    "phone": "+91 7010003985 / +91 7550136662"
+    "name": "Vivid Vision: 2D Digital Art and Animation Contest",
+    "description": "Join our 2D Digital Art and Animation Contest, where creativity meets technology! Participants will have the opportunity to showcase their artistic talents by creating 2D images or animations based on a unique given theme. This event offers hands-on experience with tools like Photoshop, GIMP, Aseprite, and Piskel, helping to build a standout digital art portfolio.",
+    "image": "event posters/Non-Technical/Shark Tank.png",
+    "date": "26th September 2024",
+    "time": "01:00 PM - 04:00 PM",
+    "venue": "TBA",
+    "fee": "₹125/- for an individual",
+    "rules": [
+      "Participants can only enter as a team of 2 to 3 members (maximum of 3 members). The theme will be announced at the start of the contest. Participants must create a 2D image or animation based on this theme.",
+      "Participants are requested to bring their laptops for designing.",
+      "Participants may use any 2D graphic design or animation software, such as Photoshop, GIMP, Aseprite, Piskel, Adobe Animate, etc.",
+      "All entries must be original works created by the participants. Use of pre-made assets is not allowed.",
+      "Results are evaluated based on Creativity and Originality, Artistic Skill, and Relevance to Theme.",
+      "After completion of the design, the image or the animation has to be submitted along with an Explanatory write-up (50 to 60 words) on how they have approached the theme along with the software used by them.",
+      "Animations can be made within the time range of 3 to 5 seconds.",
+      "This will be a one-round event, and the winners will be chosen based on this round.",
+      "This event will consist of only two winners."
+    ],
+    "contactPerson": [
+      {
+        "name": "Sai Shivaram L N",
+        "phone": "+91 7010003985"
+      },
+      {
+        "name": "Sandhya A",
+        "phone": "+91 7550136662"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform"
   }
-}
 ]
