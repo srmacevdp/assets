@@ -501,11 +501,47 @@
     }
   ],
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeEJ6gv53gcggmRin09ix-FDFSqyP3TcYPcPRMXCayDLRMySA/viewform"
+},
+  {
+  "name": "Techflix",
+  "description": "Techflix is an exciting event designed to showcase innovative short films that explore tech, editing and filmmaking skills. It's your chance to shine and share your awesome breakthroughs with technology and make it Tech-tastic Film. Make sure to add some Drama to your short film and make it engaging. We're looking for tech-films that make complex ideas fun and interesting by engagingly blending education and entertainment!",
+  "image": "event posters/Non-Technical/paparazzi poster.png",
+  "date": "26th-27th September 2024",
+  "time": {
+    "Day 1": "10:00 AM - 11:00 AM",
+    "Day 2": "12:00 PM - 02:00 PM"
+  },
+  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+  "fee": [
+    "₹180 for a team of 2 participants",
+    "₹200 for a team of 3 participants"
+  ],
+  "rules": [
+    "A team must consist of a minimum of 3 and a maximum of 4 participants.",
+    "Make sure to give your team a unique name!",
+    "The duration of the video should be a minimum of 5 minutes and a maximum of 7 minutes.",
+    "Since it’s a non-technical event, you can include anything you like, but it must contain some technical aspects.",
+    "You cannot use internet film layouts, the film should reflect your creativity and showcase your editing skills.",
+    "You must submit your film before the deadline. Late submissions will not be entertained.",
+    "The shooting of your film can be done anywhere.",
+    "Your short film must follow the theme. If it does not, your team will be disqualified.",
+    "Strictly no vulgarity or inappropriate scenes will be allowed in the video. Teams with such content will be disqualified."
+  ],
+  "importantDates": {
+    "registrationDeadline": "24th September 2024"
+  },
+  "contact": {
+    "coordinators": [
+      {
+        "name": "Vaasavi G",
+        "phone": "+91 6382941735"
+      },
+      {
+        "name": "Irram Fatima",
+        "phone": "+91 8925703367"
+      }
+    ]
+  },
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSesQPAZXFO_5-ES2jSiXYwkFuxZWHEiY0UbPcnwKoYtveEzcA/viewform"
 }
-
-
-
-
-
-
 ]
