@@ -625,7 +625,35 @@
       "video_link": "https://drive.google.com/uc?export=view&id=1j0esK_BeVEPkkMEDo2Q2km0KIjiXgyNc"
     }
   }
+},
+  {
+  "name": "Vivid Vision: 2D Digital Art and Animation Contest",
+  "description": "Join our 2D Digital Art and Animation Contest, where creativity meets technology! Participants will have the opportunity to showcase their artistic talents by creating 2D images or animations based on a unique given theme. This event offers hands-on experience with tools like Photoshop, GIMP, Aseprite, and Piskel, helping to build a standout digital art portfolio.",
+  "image": "event posters/Non-Technical/Shark Tank.png",
+  "date": "26th September 2024",
+  "time": "01:00 PM - 04:00 PM",
+  "venue": "TBA",
+  "fee": "₹125/- for an individual",
+  "themes": [
+    "Post-Human Evolution: Illustrate the next stage of evolution after humans, focusing on how new life forms might look and behave.",
+    "Anachronistic Future: Depict a future where past technologies or aesthetics have made a comeback, blending old and new in surprising ways.",
+    "Cyberpunk Cityscapes: Neon-lit futuristic cities with towering skyscrapers, flying cars, and digital billboards."
+  ],
+  "rules": [
+    "Participants can only enter as a team of 2 to 3 members (maximum of 3 members). The theme will be announced at the start of the contest. Participants must create a 2D image or animation based on this theme.",
+    "Participants are requested to bring their laptops for designing.",
+    "Participants may use any 2D graphic design or animation software, such as Photoshop, GIMP, Aseprite, Piskel, Adobe Animate, etc.",
+    "All entries must be original works created by the participants. Use of pre-made assets is not allowed.",
+    "Results are evaluated based on Creativity and Originality, Artistic Skill, and Relevance to Theme.",
+    "After completion of the design, the image or the animation has to be submitted along with an Explanatory write-up (50 to 60 words) on how they have approached the theme along with the software used by them.",
+    "Animations can be made within the time range of 3 to 5 seconds.",
+    "This will be a one-round event, and the winners will be chosen based on this round.",
+    "This event will consist of only two winners."
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform",
+  "contact": {
+    "name": "Sai Shivaram L N / Sandhya A",
+    "phone": "+91 7010003985 / +91 7550136662"
+  }
 }
-
-
 ]
