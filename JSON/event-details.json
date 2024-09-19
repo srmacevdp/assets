@@ -57,38 +57,5 @@
     ],
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfnbH3wUHDQ-wU-i7kG0WDbPyTdeNjtb7eyXRpufkjVgVrwzQ/viewform"
   }
-  {
-  "name": "BGMI",
-  "description": "BGMI is a popular online multiplayer video game that falls under the battle royale genre. This is a team event where participants can showcase their BGMI skills.",
-  "image": "event posters/Gaming/bgmi.png",
-  "date": "27th September 2024",
-  "time": "09:00 AM - 11:00 AM",
-  "venue": "TBA",
-  "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants, ₹200/- for a team of 4 participants",
-  "topics": [],
-  "rules": [
-    "Each team must have an appointed team captain/team representative. Only the captain is allowed to communicate with the organisers before, during, or after the matches.",
-    "The tournament organiser may change without prior notice any of the rules and regulations which seem necessary to ensure the success of the tournament. The tournament organiser’s decision is final.",
-    "Teams need to be at the venue 30 minutes prior to the designated match start time for setup. The lobby will be created by the organisers.",
-    "Delays caused by players (showing up late, leaving the tournament area without a stated reason, last-minute breaks) will lead to sanctions for the entire team. After 15 minutes, the game will be forfeited.",
-    "All participants and team managers are required to uphold the highest standards of fair play and sportsmanship. Misbehaviour, cheating, or hacking will lead to disqualification."
-  ],
-  "rounds": [
-    {
-      "roundName": "Round 1",
-      "description": "One battle royale match, from which the top 4 teams will qualify for the next round (TDM)."
-    },
-    {
-      "roundName": "Round 2",
-      "description": "The 4 selected teams will play 3 matches in TDM against their opponent. The team that wins 2 matches out of 3 qualifies for the finals."
-    },
-    {
-      "roundName": "Final Round",
-      "description": "The finalists will play 5 matches (TDM). The team that wins 3 matches out of 5 will be the Final winner."
-    }
-  ],
-  "note": "The game must be pre-installed on the mobile. Maps in play: Erangel. Game Mode: TPP.",
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeKrpI6kQeWq6TwF3gVpWme2zKsst_Ncgbj8wY0n6-B0j8EQg/viewform"
-}
-
+ 
 ]
