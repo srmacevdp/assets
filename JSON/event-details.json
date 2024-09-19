@@ -580,6 +580,40 @@
       }
     ],
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform"
+  },
+  {
+    "name": "Valorant",
+    "image": "event posters/Gaming/Rocket League.png",
+    "description": "Prepare for the ultimate test of strategy, skill, and teamwork at the Valorant Gaming Event! Dive into the action-packed world of Valorant, where the best teams and players will face off in a high-stakes competition for glory. With fast-paced gameplay, strategic decision-making, and precise aim, every match promises intense battles and unforgettable moments.",
+    "date": "2024-09-26",
+    "time": "11:00 AM - 02:00 PM",
+    "venue": "Online",
+    "fee": "₹300/- for a team of 5 participants",
+    "rules": [
+      "5v5, Competitive mode.",
+      "Knockout stages, Best of 2 for playoffs, Best of 3 for finals.",
+      "Ascent, Bind, Haven, Split, Icebox, Breeze, Fracture, Lotus, Pearl.",
+      "Map Selection via Veto system.",
+      "Valorant account Level 20+.",
+      "Teams of 5 players (1 substitute allowed).",
+      "2 tactical pauses per map (1 minute each).",
+      "10-minute reconnection time, then substitute or play a man down.",
+      "Cheating results in disqualification.",
+      "All communication must be respectful."
+    ],
+    "speakers": [],
+    "topics": [],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc-0yXhqfkH7sB7r9GErpST6ckcXQPCIZxhK3Gket2jURHvdg/viewform",
+    "contactPerson": [
+      {
+        "name": "Pranav H",
+        "phone": "+91 9894064653"
+      },
+      {
+        "name": "B Manoj Kumar",
+        "phone": "+91 7904847488"
+      }
+    ]
   }
    
 ]
