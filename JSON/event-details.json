@@ -87,36 +87,44 @@
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfduxmprmtHD2WTKfm0G1iQ6_gTRz6AuW7IgIVpZniTmA1eaw/viewform"
   },
   {
-    "name": "BGMI",
-    "description": "BGMI is a popular online multiplayer video game that falls under the battle royale genre. This is a team event where participants can showcase their BGMI skills.",
-    "image": "event posters/Gaming/bgmi.png",
+    "name": "Block and Brawl",
+    "description": "It is a two-round event blending strategic block and tackle techniques with high-stakes debate. Level 1 features and tactical challenges, while Level 2 focuses on applying strategies in competitive debates. Join us for an exciting blend of strategy, rhetoric, and networking.",
+    "image": "event posters/Non-Technical/GuessTheWhisper.jpg",
     "date": "27th September 2024",
-    "time": "09:00 AM - 11:00 AM",
+    "time": "10.00 A.M. - 01.00 P.M.",
     "venue": "TBA",
-    "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants, ₹200/- for a team of 4 participants",
+    "fee": "₹75/- for individual",
     "rules": [
-      "Each team must have an appointed team captain/team representative. Only the captain is allowed to communicate with the organisers before, during or after the matches.",
-      "The tournament organiser may change without prior notice any of the rules and regulations which seem necessary to ensure the success of the tournament. The tournament organiser’s decision is final.",
-      "Teams need to be at the venue 30 minutes prior to the designated match start time for setup. The lobby will be created by the organisers.",
-      "To avoid delays in the program of the event, delays caused by players (showing up late, leaving the tournament area without a stated reason, last-minute smoke or toilet break) will lead to sanctions for the entire team. 15 minutes and beyond Game will be forfeited.",
-      "All participants and team managers are required to uphold the highest standards of fair play and sportsmanship. Any misbehaviour, breaking of rules, cheating or hacking will lead to disqualification.",
-      "Round 1: One battle royale match, from which the top 4 teams will qualify for next round (TDM).",
-      "Round 2: All the 4 selected teams will play 3 matches in (TDM) against their opponent, the team which wins 2 matches out of 3, are qualified for the finals.",
-      "Final Round: The finalists playing this round will have 5 matches (TDM), the team which wins 3 matches out of 5 will be considered as the Final winner.",
-      "The game must be pre-installed on the mobile.",
-      "Maps in play: Erangel",
-      "Game Mode: TPP"
+      "The topic is announced at the start of the debate. Participants may be given a few minutes to prepare their thoughts.",
+      "Participants must argue both 'for' and 'against' the given topic. The moderator will signal when to switch sides. The participant must immediately switch their stance and continue the debate from the opposite perspective.",
+      "Each side (for/against) is given a specific time to present their arguments, usually 30 seconds to 2 minutes per switch. The total time for the debate is also predetermined, typically around 5-10 minutes.",
+      "The moderator can call for a switch anytime. The number of switches is usually not fixed, adding an element of unpredictability. Participants must be prepared to switch their stance quickly and seamlessly.",
+      "Arguments should be clear, concise, and relevant. Participants should avoid repetition and instead provide new points with each switch.",
+      "Participants must maintain decorum and show respect for the opposing side's arguments. Interrupting or talking over the moderator or opponent is generally discouraged.",
+      "Clarity, fluency, and confidence in presenting arguments. Adaptability: Ability to switch sides quickly and effectively.",
+      "Keeping the audience and judges engaged through compelling arguments."
     ],
+    "rounds": {
+      "Round 1": [
+        "All participants present their arguments on a given topic, with judges shortlisting the top contenders based on their reasoning, clarity, and ability to engage the audience."
+      ],
+      "Round 2": [
+        "Only those who impress in this initial stage move forward to Round 2, where the real challenge begins."
+      ],
+      "Final Round": [
+        "This final round determines the winners as the remaining debaters face off, switching sides and arguing both for and against the topic with agility when the command 'switch' is given."
+      ]
+    },
     "contactPerson": [
       {
-        "name": "Abhishek M",
-        "phone": "+91 7559067389"
+        "name": "Archana Ramesh",
+        "phone": "+91 7845836356"
       },
       {
-        "name": "Shravan Chumble",
-        "phone": "+91 7823844791"
+        "name": "Dhiyaan Kumaar Ms",
+        "phone": "+91 9445291303"
       }
     ],
-    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeKrpI6kQeWq6TwF3gVpWme2zKsst_Ncgbj8wY0n6-B0j8EQg/viewform"
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSf_LqAg-oTmaaV7rWDavFb8X7xZkWRt_NI5Wd7GBKmbWtWzAg/viewform"
   }
 ]
