@@ -582,38 +582,41 @@
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform"
   },
   {
-    "name": "Valorant",
-    "image": "event posters/Gaming/Rocket League.png",
-    "description": "Prepare for the ultimate test of strategy, skill, and teamwork at the Valorant Gaming Event! Dive into the action-packed world of Valorant, where the best teams and players will face off in a high-stakes competition for glory. With fast-paced gameplay, strategic decision-making, and precise aim, every match promises intense battles and unforgettable moments.",
-    "date": "2024-09-26",
-    "time": "11:00 AM - 02:00 PM",
-    "venue": "Online",
-    "fee": "₹300/- for a team of 5 participants",
-    "rules": [
-      "5v5, Competitive mode.",
-      "Knockout stages, Best of 2 for playoffs, Best of 3 for finals.",
-      "Ascent, Bind, Haven, Split, Icebox, Breeze, Fracture, Lotus, Pearl.",
-      "Map Selection via Veto system.",
-      "Valorant account Level 20+.",
-      "Teams of 5 players (1 substitute allowed).",
-      "2 tactical pauses per map (1 minute each).",
-      "10-minute reconnection time, then substitute or play a man down.",
-      "Cheating results in disqualification.",
-      "All communication must be respectful."
-    ],
-    "speakers": [],
-    "topics": [],
-    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc-0yXhqfkH7sB7r9GErpST6ckcXQPCIZxhK3Gket2jURHvdg/viewform",
-    "contactPerson": [
-      {
-        "name": "Pranav H",
-        "phone": "+91 9894064653"
-      },
-      {
-        "name": "B Manoj Kumar",
-        "phone": "+91 7904847488"
-      }
-    ]
-  }
+  "name": "Vivid Vision: 2D Digital Art and Animation Contest",
+  "description": "Join our 2D Digital Art and Animation Contest, where creativity meets technology! Participants will have the opportunity to showcase their artistic talents by creating 2D images or animations based on a unique given theme. This event is perfect for aspiring game developers, graphic designers, and digital artists looking to enhance their portfolios while gaining hands-on experience with industry-standard tools. Tools like Photoshop, GIMP, Aseprite, and Piskel will be used to build a standout digital art portfolio.",
+  "image": "event posters/Non-Technical/Shark Tank.png",
+  "date": "26th September 2024",
+  "time": "01:00 PM - 04:00 PM",
+  "venue": "TBA",
+  "fee": "₹125/- for an individual",
+  "rules": [
+    "Participants can only enter as a team of 2 to 3 members (maximum of 3 members). The theme will be announced at the start of the contest. Participants must create a 2D image or animation based on this theme.",
+    "Participants are requested to bring their laptops for designing.",
+    "Participants may use any 2D graphic design or animation software, such as Photoshop, GIMP, Aseprite, Piskel, Adobe Animate, etc.",
+    "All entries must be original works created by the participants. Use of pre-made assets is not allowed.",
+    "Results are evaluated based on Creativity and Originality, Artistic Skill, and Relevance to Theme.",
+    "After completion of the design, the image or the animation has to be submitted along with an explanatory write-up (50 to 60 words) on how they have approached the theme and the software used.",
+    "Animations can be made within the time range of 3 to 5 seconds.",
+    "This will be a one-round event, and the winners will be chosen based on this round.",
+    "This event will consist of only two winners."
+  ],
+  "themes": [
+    "Post-Human Evolution: Illustrate the next stage of evolution after humans, focusing on how new life forms might look and behave.",
+    "Anachronistic Future: Depict a future where past technologies or aesthetics have made a comeback, blending old and new in surprising ways.",
+    "Cyberpunk Cityscapes: Neon-lit futuristic cities with towering skyscrapers, flying cars, and digital billboards."
+  ],
+  "contactPerson": [
+    {
+      "name": "Sai Shivaram L N",
+      "phone": "+91 7010003985"
+    },
+    {
+      "name": "Sandhya A",
+      "phone": "+91 7550136662"
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeOVLXjQ3HIXXeKm4YnFhiEvZJHhueOJqRE1b7ewjp5RJR0cw/viewform"
+}
+
    
 ]
