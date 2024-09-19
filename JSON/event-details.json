@@ -251,223 +251,213 @@
   ],
   "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSexvz8RhziPNQ99mwerbwCPKVfWLoJC6HcFdYdQgpyDZDOabA/viewform"
 },
-  {
-  "name": "INTERVIEW EDGE",
-  "description": "Enhance your interview abilities and boost your self-confidence with an interview simulator. You can practice answering various questions and receive instant feedback to refine your responses. Furthermore, mock interviews provide invaluable experience, allowing participants to gain confidence and learn how to manage constructive criticism effectively.",
-  "image": "event posters/Non-Technical/Aficianado.jpg",
-  "date": "26th September 2024",
-  "time": "01.00 P.M. - 03.00 P.M.",
-  "registrationFee": "₹75/- for an individual",
-  "venue": "SRM IST VDP",
-  "rules": [
-    "Each participant must be present at the venue until the end to avail OD.",
-    "Points are awarded for successfully answering interview questions or completing challenges. No partial scoring will be given.",
-    "The participant with the most points at the end of the interview wins.",
-    "The student coordinators have the final decision-making authority.",
-    "Those who win the first and second place get exciting prizes!!"
-  ],
-  "contactPerson": [
-    {
-      "name": "J Joshua Haniel",
-      "phone": "+91 9940263285"
-    },
-    {
-      "name": "Nilesh J",
-      "phone": "+91 9043795180"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSexvz8RhziPNQ99mwerbwCPKVfWLoJC6HcFdYdQgpyDZDOabA/viewform"
-},
-  {
-  "name": "IPL Auction",
-  "description": "A fun team event, it is a simulation of the real-life IPL auction where the participants pick a team of 11. The participants have to pick a strong team with their knowledge about the players. They will be given an initial budget based on which the participants are expected to choose the team.",
-  "image": "event posters/Gaming/ipl auction Final.jpg",
-  "date": "26th September 2024",
-  "time": "10.00 A.M. - 01.00 P.M.",
-  "registrationFee": [
-    "₹120/- for a team of 2 participants",
-    "₹180/- for a team of 3 participants"
-  ],
-  "venue": "SRM IST VDP",
-  "rules": [
-    "A team must consist of 2 or 3 participants per team.",
-    "Any decisions made are final and binding.",
-       "Quiz - ",
-        "The quiz will be conducted using the Kahoot app with 20 questions.",
-        "The top 10 scorers in the quiz will proceed to Round 2.",
-        "The top 3 teams in the quiz round will get an additional bonus going into the auction.",
- "IPL Auction",
-        "Each team will be allocated a fixed budget of 50 crores for the auction. The objective is to build a team of 11 players. Failure to do so will result in immediate disqualification.",
-        "Every team can contain a maximum of 4 foreign players, at least 1 wicket keeper, and 2 uncapped players.",
-        "Players are categorized into six groups: capped Indian batsmen, capped Indian bowlers, capped Indian all-rounders, capped Indian wicket keepers, all uncapped players, and all overseas players."
-      ],
-  "contactPersons": [
-    {
-      "name": "TS Vijay",
-      "phone": "+91 7305334679"
-    },
-    {
-      "name": "Ashwin K",
-      "phone": "+91 9884756578"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfbSrewEG0kbOqmTiu8ec_RjyUdFBOTB_6EJovQPd4VKNPFFQ/viewform"
-},
-  {
-  "name": "LEVEL X",
-  "description": "The challenge blends creativity, innovation, and technical skills as contestants use Python, Java, Pygame, and Unity to develop a new-level design. Before the competition, event coordinators will provide the initial game code and a detailed explanation, ensuring everyone starts on equal footing. What makes LEVEL X special is its blend of fun, nostalgia, and learning it offers. As participants work on their levels, they'll revisit classic gaming elements while innovating with modern techniques. The event is a great way to hone problem-solving skills in a playful and competitive environment. The most innovative and well-executed level design will take the top prize, making it a thrilling challenge for coders of all levels.",
-  "image": "event posters/Technical/TechDebate.jpg",
-  "date": "27th September 2024",
-  "time": "09.00 A.M. - 03.00 P.M",
-  "registrationFee": "₹130/- for a team of 2 participants",
-  "venue": "Auditorium",
-  "rules": [
-    "A team can consist of up to 2-4 participants and a team name should be provided.",
-    "Participants have exactly 4 hours to complete their level design. Once the time limit exceeds, the page given for coding will close automatically.",
-    "The initial game code provided by event coordinators must be used as the foundation for the level design. Modifications to this code are allowed, but the base structure should remain recognizable.",
-    "Participants can use online resources like documentation and tutorials during the competition. However, direct copying of code from external sources is not allowed.",
-    "Plagiarism or using pre-existing designs will result in disqualification.",
-    "Levels will be judged based on creativity, innovation, technical execution, and overall gameplay experience. The organizing committee reserves the right to make the final decision."
-  ],
-  "contactPersons": [
-    {
-      "name": "Saranya Purushothaman",
-      "phone": "+91 7305708933"
-    },
-    {
-      "name": "Y.Sai Dheeraj",
-      "phone": "+91 7395961001"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdmpDfYolFuq-77t8WX1mlm-Z79p1XM_tSjuyqq6pV1Eh6LLQ/viewform"
-},
-  {
-  "name": "MARKET MANIA",
-  "description": "In this Event anyone who wants to gain knowledge about the stock market and wants to check your knowledge about stocks and showcase it to others. You can participate in this event. In this event we will give you some amount to invest and a companies list, you will have to invest $10,000 and we will see some market crashes.",
-  "image": "event posters/Technical/Stock Market updated.png",
-  "date": "26th September 2024",
-  "time": "09.00 A.M. - 03.00 P.M",
-  "registrationFee": "₹130/- for a team of 2 participants",
-  "venue": "Offline/Classroom",
-  "rules": [
-    "Open to students, with teams of 2 or 3 members. All participants must register online before the deadline, and team changes must be notified to the organizers.",
-    "The event is offline and consists of 5 rounds of testing stock market knowledge. Participants can bring laptops, and each round focuses on different investment strategies.",
-    "Teams start with $10,000. A maximum of $2,000 can be invested in each company at any time. Investment forms cannot be resubmitted once filled.",
-    "Clues will be presented through PPTs at set intervals, influencing stock prices and helping teams adjust their buy, sell, or hold decisions.",
-    "Participants must maintain integrity. External strategies, plagiarism, or unauthorized assistance will lead to immediate disqualification.",
-    "Teams will be judged on total portfolio value and strategic decision-making. The judges' decisions are final and binding.",
-    "Disruptive behavior, rule violations, or failure to adhere to time limits can result in disqualification.",
-    "Teams must submit their investments via Google Forms during each round and ensure their trading setup is ready before the event begins."
-  ],
-  "contactPersons": [
-    {
-      "name": "Eklavya Singh",
-      "phone": "+91 7668291228"
-    },
-    {
-      "name": "A George",
-      "phone": "+91 9962762492"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeK-EQpuVzOnjfQmXbxrrG07fGeL4yh0AZ4eeLOu7JJMSB4PA/viewform"
-},
-  {
-  "name": "MINES",
-  "description": "\"Real-Life Mines\" is a strategic outdoor game played on a large grid marked on the ground. Players take turns stepping on squares, trying to avoid hidden \"mines\" placed by the organizers. Each safe step allows them to continue, but stepping on a mine costs them one of their two lives. Losing both lives means the team is out of the game. The challenge is to navigate as many safe squares as possible, balancing risk and strategy to avoid the hidden dangers.",
-  "image": "event posters/Non-Technical/suriving the titanic.png",
-  "date": "27th September 2024",
-  "time": "10.00 A.M. - 01.00 P.M.",
-  "registrationFee": {
-    "2Participants": "₹120/-",
-    "3Participants": "₹180/-"
+ {
+    "name": "INTERVIEW EDGE",
+    "description": "Enhance your interview abilities and boost your self-confidence with an interview simulator. You can practice answering various questions and receive instant feedback to refine your responses. Furthermore, mock interviews provide invaluable experience, allowing participants to gain confidence and learn how to manage constructive criticism effectively.",
+    "image": "event posters/Non-Technical/Aficianado.jpg",
+    "date": "26th September 2024",
+    "time": "01.00 P.M. - 03.00 P.M.",
+    "venue": "SRM IST VDP",
+    "fee": "₹75/- for an individual",
+    "rules": [
+      "Each participant must be present at the venue until the end to avail OD.",
+      "Points are awarded for successfully answering interview questions or completing challenges. No partial scoring will be given.",
+      "The participant with the most points at the end of the interview wins.",
+      "The student coordinators have the final decision-making authority.",
+      "Those who win the first and second place get exciting prizes!!"
+    ],
+    "contactPerson": [
+      {
+        "name": "J Joshua Haniel",
+        "phone": "+91 9940263285"
+      },
+      {
+        "name": "Nilesh J",
+        "phone": "+91 9043795180"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSexvz8RhziPNQ99mwerbwCPKVfWLoJC6HcFdYdQgpyDZDOabA/viewform"
   },
-  "venue": "Offline",
-  "rules": [
-    "A team can consist of 2-3 participants.",
-    "Each participant or team must have a unique identifier or team name.",
-    "Punctuality is mandatory.",
-    "During the game, one participant must be on the minefield and the other participants of the team must stay outside and guide them to make the next step.",
-    "Each team will be provided with a blank paper simulating the minefield to track the locations of mines, record player moves, and plan their logical strategies.",
-    "Teams earn points for landing on a safe block or flagging a mine.",
-    "The time limit to make each move will be 50 seconds, and points will be deducted if failed to do so.",
-    "Each team would be given 2 lives, and each life would be lost when landed on a mine.",
-    "A hint can be obtained by answering a question or deducing a riddle.",
-    "The team with the most points wins."
-  ],
-  "contactPersons": [
-    {
-      "name": "Pratham Mehta",
-      "phone": "+91 6353262649"
-    },
-    {
-      "name": "Caroline Vineeta S L",
-      "phone": "+91 7338999541"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdV9RexFdgh2-aVkV7kDYYYjAa32dniB80_6uBT0jJGNKwaEA/viewform"
-},{
-  "name": "SHERLOCKED!",
-  "description": "Unleash your detective skills in a fast-paced mystery-solving competition. Teams will race to solve a series of clues, puzzles, and interact with characters to crack the case.",
-  "image": "event posters/Gaming/sherlocked.png",
-  "date": "27th September 2024",
-  "time": "11.00 A.M. - 02.00 P.M.",
-  "registrationFee": {
-    "4Participants": "₹200/-"
-  },
-  "venue": "Offline",
-  "rules": [
-    "Each team must have 4 members.",
-    "This is a Single round event.",
-    "Teams must solve clues sequentially to advance.",
-    "The first team to solve the mystery or the team with the most progress wins.",
-    "No sabotage or collaboration with other teams is allowed.",
-    "Breaking rules or tampering with clues results in penalties.",
-    "Only notebooks and pens are allowed.",
-    "Hints available at checkpoints with time penalties."
-  ],
-  "contactPersons": [
-    {
-      "name": "Rishabh Roy Choudhury",
-      "phone": "+91 9884832976"
-    },
-    {
-      "name": "B Madhav Sai",
-      "phone": "+91 7306512345"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScjxJr5YOJKuH-_p43U40LbI5Qa_GGL9jNUJyKyq_RSBNUQ1g/viewform"
-},
   {
-  "name": "Tech Catalyst",
-  "description": "A 'Tech Catalyst' event is a competition where teams work together to solve a given problem using a dataset provided by the organizers. The goal is to analyze the data, draw insights, or make predictions based on what they find. Participants will use tools like Excel, PowerPoint, Tableau, or Power BI to visualize their results and present their solutions. The focus is on how creatively and effectively teams can apply data science techniques to address the problem. Overall, the event encourages teams to think critically and use the data to develop meaningful solutions.",
-  "image": "event posters/Technical/SQLIZE.png",
-  "date": "27th September 2024",
-  "time": "09.00 A.M. - 03.00 P.M.",
-  "registrationFee": {
-    "3Participants": "₹180/-"
+    "name": "IPL Auction",
+    "description": "A fun team event, it is a simulation of the real-life IPL auction where the participants pick a team of 11. The participants have to pick a strong team with their knowledge about the players. They will be given an initial budget based on which the participants are expected to choose the team.",
+    "image": "event posters/Gaming/ipl auction Final.jpg",
+    "date": "26th September 2024",
+    "time": "10.00 A.M. - 01.00 P.M.",
+    "venue": "SRM IST VDP",
+    "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants",
+    "rules": [
+      "A team must consist of 2 or 3 participants per team.",
+      "Any decisions made are final and binding.",
+      "Quiz - The quiz will be conducted using the Kahoot app with 20 questions.",
+      "The top 10 scorers in the quiz will proceed to Round 2.",
+      "The top 3 teams in the quiz round will get an additional bonus going into the auction.",
+      "IPL Auction - Each team will be allocated a fixed budget of 50 crores for the auction. The objective is to build a team of 11 players. Failure to do so will result in immediate disqualification.",
+      "Every team can contain a maximum of 4 foreign players, at least 1 wicket keeper, and 2 uncapped players.",
+      "Players are categorized into six groups: capped Indian batsmen, capped Indian bowlers, capped Indian all-rounders, capped Indian wicket keepers, all uncapped players, and all overseas players."
+    ],
+    "contactPerson": [
+      {
+        "name": "TS Vijay",
+        "phone": "+91 7305334679"
+      },
+      {
+        "name": "Ashwin K",
+        "phone": "+91 9884756578"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfbSrewEG0kbOqmTiu8ec_RjyUdFBOTB_6EJovQPd4VKNPFFQ/viewform"
   },
-  "rules": [
-    "Teams must consist of 3 members, with all members encouraged to contribute equally to the tasks.",
-    "Only the dataset provided by the organizers is allowed. Teams must use this data for analysis and solutions.",
-    "Teams are encouraged to creatively analyze and manipulate the dataset using the tools provided, such as Excel and Power BI.",
-    "Participants can only use Excel, Power BI, Tableau, and PowerPoint for data analysis, visualization, and presentation.",
-    "The use of any other software or programming languages beyond the permitted tools is not allowed.",
-    "Final presentation files (PowerPoint, Excel, and Power BI) must be submitted by the deadline specified by the organizers.",
-    "Judges will evaluate the precision and correctness of the team's findings.",
-    "Solutions will be judged based on their creativity and how applicable they are in real-world scenarios."
-  ],
-  "contactPersons": [
-    {
-      "name": "Sharavana Ragav S",
-      "phone": "+91 8148394601"
-    },
-    {
-      "name": "S.R.Keerttna",
-      "phone": "+91 9080589716"
-    }
-  ],
-  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeEJ6gv53gcggmRin09ix-FDFSqyP3TcYPcPRMXCayDLRMySA/viewform"
-},
+  {
+    "name": "LEVEL X",
+    "description": "The challenge blends creativity, innovation, and technical skills as contestants use Python, Java, Pygame, and Unity to develop a new-level design. Before the competition, event coordinators will provide the initial game code and a detailed explanation, ensuring everyone starts on equal footing. What makes LEVEL X special is its blend of fun, nostalgia, and learning it offers. As participants work on their levels, they'll revisit classic gaming elements while innovating with modern techniques. The event is a great way to hone problem-solving skills in a playful and competitive environment. The most innovative and well-executed level design will take the top prize, making it a thrilling challenge for coders of all levels.",
+    "image": "event posters/Technical/TechDebate.jpg",
+    "date": "27th September 2024",
+    "time": "09.00 A.M. - 03.00 P.M",
+    "venue": "Auditorium",
+    "fee": "₹130/- for a team of 2 participants",
+    "rules": [
+      "A team can consist of up to 2-4 participants and a team name should be provided.",
+      "Participants have exactly 4 hours to complete their level design. Once the time limit exceeds, the page given for coding will close automatically.",
+      "The initial game code provided by event coordinators must be used as the foundation for the level design. Modifications to this code are allowed, but the base structure should remain recognizable.",
+      "Participants can use online resources like documentation and tutorials during the competition. However, direct copying of code from external sources is not allowed.",
+      "Plagiarism or using pre-existing designs will result in disqualification.",
+      "Levels will be judged based on creativity, innovation, technical execution, and overall gameplay experience. The organizing committee reserves the right to make the final decision."
+    ],
+    "contactPerson": [
+      {
+        "name": "Saranya Purushothaman",
+        "phone": "+91 7305708933"
+      },
+      {
+        "name": "Y.Sai Dheeraj",
+        "phone": "+91 7395961001"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdmpDfYolFuq-77t8WX1mlm-Z79p1XM_tSjuyqq6pV1Eh6LLQ/viewform"
+  },
+  {
+    "name": "MARKET MANIA",
+    "description": "In this Event anyone who wants to gain knowledge about the stock market and wants to check your knowledge about stocks and showcase it to others. You can participate in this event. In this event we will give you some amount to invest and a companies list, you will have to invest $10,000 and we will see some market crashes.",
+    "image": "event posters/Technical/Stock Market updated.png",
+    "date": "26th September 2024",
+    "time": "09.00 A.M. - 03.00 P.M",
+    "venue": "Offline/Classroom",
+    "fee": "₹130/- for a team of 2 participants",
+    "rules": [
+      "Open to students, with teams of 2 or 3 members. All participants must register online before the deadline, and team changes must be notified to the organizers.",
+      "The event is offline and consists of 5 rounds of testing stock market knowledge. Participants can bring laptops, and each round focuses on different investment strategies.",
+      "Teams start with $10,000. A maximum of $2,000 can be invested in each company at any time. Investment forms cannot be resubmitted once filled.",
+      "Clues will be presented through PPTs at set intervals, influencing stock prices and helping teams adjust their buy, sell, or hold decisions.",
+      "Participants must maintain integrity. External strategies, plagiarism, or unauthorized assistance will lead to immediate disqualification.",
+      "Teams will be judged on total portfolio value and strategic decision-making. The judges' decisions are final and binding.",
+      "Disruptive behavior, rule violations, or failure to adhere to time limits can result in disqualification.",
+      "Teams must submit their investments via Google Forms during each round and ensure their trading setup is ready before the event begins."
+    ],
+    "contactPerson": [
+      {
+        "name": "Eklavya Singh",
+        "phone": "+91 7668291228"
+      },
+      {
+        "name": "A George",
+        "phone": "+91 9962762492"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeK-EQpuVzOnjfQmXbxrrG07fGeL4yh0AZ4eeLOu7JJMSB4PA/viewform"
+  },
+  {
+    "name": "MINES",
+    "description": "\"Real-Life Mines\" is a strategic outdoor game played on a large grid marked on the ground. Players take turns stepping on squares, trying to avoid hidden \"mines\" placed by the organizers. Each safe step allows them to continue, but stepping on a mine costs them one of their two lives. Losing both lives means the team is out of the game. The challenge is to navigate as many safe squares as possible, balancing risk and strategy to avoid the hidden dangers.",
+    "image": "event posters/Non-Technical/suriving the titanic.png",
+    "date": "27th September 2024",
+    "time": "10.00 A.M. - 01.00 P.M.",
+    "venue": "Offline",
+    "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants",
+    "rules": [
+      "A team can consist of 2-3 participants.",
+      "Each participant or team must have a unique identifier or team name.",
+      "Punctuality is mandatory.",
+      "During the game, one participant must be on the minefield and the other participants of the team must stay outside and guide them to make the next step.",
+      "Each team will be provided with a blank paper simulating the minefield to track the locations of mines, record player moves, and plan their logical strategies.",
+      "Teams earn points for landing on a safe block or flagging a mine.",
+      "The time limit to make each move will be 50 seconds, and points will be deducted if failed to do so.",
+      "Each team would be given 2 lives, and each life would be lost when landed on a mine.",
+      "A hint can be obtained by answering a question or deducing a riddle.",
+      "The team with the most points wins."
+    ],
+    "contactPerson": [
+      {
+        "name": "Pratham Mehta",
+        "phone": "+91 6353262649"
+      },
+      {
+        "name": "Caroline Vineeta S L",
+        "phone": "+91 7338999541"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdV9RexFdgh2-aVkV7kDYYYjAa32dniB80_6uBT0jJGNKwaEA/viewform"
+  },
+  {
+    "name": "SHERLOCKED!",
+    "description": "Unleash your detective skills in a fast-paced mystery-solving competition. Teams will race to solve a series of clues, puzzles, and interact with characters to crack the case.",
+    "image": "event posters/Gaming/sherlocked.png",
+    "date": "27th September 2024",
+    "time": "11.00 A.M. - 02.00 P.M.",
+    "venue": "Offline",
+    "fee": "₹200/- for a team of 4 participants",
+    "rules": [
+      "Each team must have 4 members.",
+      "This is a Single round event.",
+      "Teams must solve clues sequentially to advance.",
+      "The first team to solve the mystery or the team with the most progress wins.",
+      "No sabotage or collaboration with other teams is allowed.",
+      "Breaking rules or tampering with clues results in penalties.",
+      "Only notebooks and pens are allowed.",
+      "Hints available at checkpoints with time penalties."
+    ],
+    "contactPerson": [
+      {
+        "name": "Rishabh Roy Choudhury",
+        "phone": "+91 9884832976"
+      },
+      {
+        "name": "B Madhav Sai",
+        "phone": "+91 7306512345"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScjxJr5YOJKuH-_p43U40LbI5Qa_GGL9jNUJyKyq_RSBNUQ1g/viewform"
+  },
+  {
+    "name": "Tech Catalyst",
+    "description": "A 'Tech Catalyst' event is a competition where teams work together to solve a given problem using a dataset provided by the organizers. The goal is to analyze the data, draw insights, or make predictions based on what they find. Participants will use tools like Excel, PowerPoint, Tableau, or Power BI to visualize their results and present their solutions. The focus is on how creatively and effectively teams can apply data science techniques to address the problem. Overall, the event encourages teams to think critically and use the data to develop meaningful solutions.",
+    "image": "event posters/Technical/SQLIZE.png",
+    "date": "27th September 2024",
+    "time": "09.00 A.M. - 03.00 P.M.",
+    "venue": "SRM IST VDP",
+    "fee": "₹180/- for a team of 3 participants",
+    "rules": [
+      "Teams must consist of 3 members, with all members encouraged to contribute equally to the tasks.",
+      "Only the dataset provided by the organizers is allowed. Teams must use this data for analysis and solutions.",
+      "Teams are encouraged to creatively analyze and manipulate the dataset using the tools provided, such as Excel and Power BI.",
+      "Participants can only use Excel, Power BI, Tableau, and PowerPoint for data analysis, visualization, and presentation.",
+      "The use of any other software or programming languages beyond the permitted tools is not allowed.",
+      "Final presentation files (PowerPoint, Excel, and Power BI) must be submitted by the deadline specified by the organizers.",
+      "Judges will evaluate the precision and correctness of the team's findings.",
+      "Solutions will be judged based on their creativity and how applicable they are in real-world scenarios."
+    ],
+    "contactPerson": [
+      {
+        "name": "Sharavana Ragav S",
+        "phone": "+91 8148394601"
+      },
+      {
+        "name": "S.R.Keerttna",
+        "phone": "+91 9080589716"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeEJ6gv53gcggmRin09ix-FDFSqyP3TcYPcPRMXCayDLRMySA/viewform"
+  },
   {
   "name": "Techflix",
   "description": "Techflix is an exciting event designed to showcase innovative short films that explore tech, editing and filmmaking skills. It's your chance to shine and share your awesome breakthroughs with technology and make it Tech-tastic Film. Make sure to add some Drama to your short film and make it engaging. We're looking for tech-films that make complex ideas fun and interesting by engagingly blending education and entertainment!",
