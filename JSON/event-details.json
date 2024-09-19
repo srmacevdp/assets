@@ -91,7 +91,7 @@
     "description": "It is a two-round event blending strategic block and tackle techniques with high-stakes debate. Level 1 features and tactical challenges, while Level 2 focuses on applying strategies in competitive debates. Join us for an exciting blend of strategy, rhetoric, and networking.",
     "image": "event posters/Non-Technical/GuessTheWhisper.jpg",
     "date": "27th September 2024",
-    "time": "10.00 A.M. - 01.00 P.M.",
+    "time": "10:00 A.M. - 01:00 P.M.",
     "venue": "TBA",
     "fee": "₹75/- for individual",
     "rules": [
@@ -126,5 +126,29 @@
       }
     ],
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSf_LqAg-oTmaaV7rWDavFb8X7xZkWRt_NI5Wd7GBKmbWtWzAg/viewform"
+  },
+  {
+    "name": "Decision Making Through Data Analysis",
+    "description": "Join us for a hands-on workshop on decision making through data analysis, where you'll dive into practical techniques and tools used in data-driven decision-making.",
+    "image": "event posters/workshops/data analysis.png",
+    "date": "05th-06th October 2023",
+    "time": "Day 1: 10.00 A.M. - 03.00 P.M., Day 2: 10.00 A.M. - 03.00 P.M.",
+    "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+    "fee": "Rs 250",
+    "topics": [
+      "Introduction to Data Analysis",
+      "Tools and Techniques",
+      "Data Visualization",
+      "Predictive Modeling",
+      "Decision-Making Frameworks",
+      "Case Studies"
+    ],
+    "speakers": [
+      {
+        "name": "Dr. Aarti Mehta",
+        "title": "Data Scientist at TechVision"
+      }
+    ],
+    "registrationLink": "https://forms.gle/abcd1234efgh5678"
   }
 ]
