@@ -1,0 +1,51 @@
+[
+  {
+    "name": "The Nexus of Higher Studies: Opportunities Abroad",
+    "description": "Learn about opportunities for higher studies abroad in this two-day workshop.",
+    "image": "event posters/workshops/Nexus.png",
+    "date": "21st-22nd September 2023",
+    "time": "09:00 AM - 03:00 PM",
+    "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+    "fee": "Rs 250",
+    "topics": [
+      "Introduction To Prompt Engineering",
+      "Why Prompt Engineering",
+      "How Prompt Engineering Works?",
+      "Techniques Of Prompt Engineering",
+      "Implementation Of Prompt Engineering",
+      "Applications and Models",
+      "Risk And Misuses",
+      "LLM Implementation",
+      "Introduction To NLP",
+      "Working Of NLP"
+    ],
+    "speakers": [
+      {
+        "name": "Mr. Prasanth Babu",
+        "title": "Founder and CEO of Playwithbot"
+      }
+    ],
+    "registrationLink": "https://forms.gle/BpXZhQoXomUzdcUd6"
+  },
+  {
+    "name": "Another Event",
+    "description": "Description for another event...",
+    "image": "path/to/another-event-image.jpg",
+    "date": "1st October 2023",
+    "time": "10:00 AM - 02:00 PM",
+    "venue": "Virtual",
+    "fee": "Free",
+    "topics": [
+      "Topic 1",
+      "Topic 2",
+      "Topic 3"
+    ],
+    "speakers": [
+      {
+        "name": "John Doe",
+        "title": "AI Researcher"
+      }
+    ],
+    "registrationLink": "https://example.com/register"
+  }
+]
