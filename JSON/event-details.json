@@ -150,5 +150,36 @@
       }
     ],
     "registrationLink": "https://forms.gle/abcd1234efgh5678"
-  }
+  },
+  {
+  "name": "Dev Fusion",
+  "description": "Dev Fusion, the ultimate platform for innovators and tech enthusiasts! This hackathon is not just about competition; it’s about creating groundbreaking technology for the greater good. This unique event allows participants to earn recognition for SRM IST by developing solutions that could shape the future. Whether your interests lie in AI, machine learning, IoT, or any other cutting-edge technology, Dev Fusion is where your ideas come to life. Participants are encouraged to create web apps, Android apps, iOS apps, APIs, or any software that addresses real-life problems.",
+  "image": "event posters/Technical/Debugging (3).png",
+  "date": "27th September 2024",
+  "time": "01.00 P.M. - 04.00 P.M.",
+  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+  "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants, ₹220/- for a team of 4 participants",
+  "rules": [
+    "Each team must consist of 2-4 members.",
+    "Participants are requested to bring their laptops or systems. Replit or GitHub Code spaces are provided as alternatives, and participants can also use online compilers or IDEs.",
+    "The competition consists of three rounds designed to test various coding and problem-solving skills:\nRound 1: Quiz\nRound 2: Using Developer Skills to Build Something Useful and Innovative\nRound 3: Demonstrating the Application and Submitting a PDF with a Description of the App, including the Technology Used and the Role of AI, if applicable.",
+    "Each round will have a time limit and specific objectives, and all submissions must be made through the designated platform.",
+    "Participants must not seek or provide unauthorized assistance during the event.",
+    "Solutions will be judged based on correctness, efficiency (time and space complexity), and code readability.",
+    "Prizes will be awarded to the top three teams/individuals and certificates to all participants.",
+    "Teams that submit copied code or use any AI tools will be disqualified instantly from the competition.",
+    "Any violation of these rules will result in immediate disqualification."
+  ],
+  "contactPerson": [
+    {
+      "name": "Vibhu Sahu",
+      "phone": "+91 93400 89039"
+    },
+    {
+      "name": "T.N. Shreya",
+      "phone": "+91 7200144006"
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSf0RfJg7M90jJBpA7mnqcHquBHFpWZNZg0UCjOBqij8t41QbQ/viewform"
+} 
 ]
