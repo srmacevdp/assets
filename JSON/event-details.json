@@ -56,5 +56,34 @@
       }
     ],
     "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfnbH3wUHDQ-wU-i7kG0WDbPyTdeNjtb7eyXRpufkjVgVrwzQ/viewform"
+  },
+  {
+    "name": "Code Quest",
+    "description": "CodeQuest is an adventure-themed quiz where participants embark on a journey through various realms of computer science and engineering. Each realm represents a different technical domain, and participants must answer questions to unlock the next realm and ultimately complete their quest.",
+    "image": "event posters/Technical/Capture the flag UPDATED_.png",
+    "date": "26th September 2024",
+    "time": "09:00 AM - 03:00 PM",
+    "venue": "TBA",
+    "fee": "₹120/- for a team of 2 participants, ₹180/- for a team of 3 participants, ₹220/- for a team of 4 participants",
+    "rules": [
+      "The event is open to all students, allowing teams of two to four members.",
+      "The event will be offline with three coding rounds: code completion, error spotting, and writing code for a problem statement.",
+      "Participants must bring their laptops and adhere to time limits for each round, with increasing difficulty in problems across rounds.",
+      "Plagiarism, code copying, or seeking unauthorized help is strictly prohibited, leading to immediate disqualification.",
+      "Problem statements for each round will be provided, and participants must use specified programming languages to solve them.",
+      "Submissions must be error-free and submitted through the designated platform. Late submissions are only accepted for organizer-acknowledged technical issues.",
+      "Solutions are judged based on correctness, efficiency, code readability, and innovation, with bonus points for optimized solutions."
+    ],
+    "contactPerson": [
+      {
+        "name": "Srijan Mani Tripathi",
+        "phone": "+91 7903385276"
+      },
+      {
+        "name": "Athish Krithik JD",
+        "phone": "+91 9500476719"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfduxmprmtHD2WTKfm0G1iQ6_gTRz6AuW7IgIVpZniTmA1eaw/viewform"
   }
 ]
