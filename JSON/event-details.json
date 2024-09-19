@@ -239,6 +239,14 @@
     "Participants must maintain decorum and respect the adjudicator, the event coordinators, and fellow participants.",
     "The use of offensive language or personal attacks is strictly prohibited."
   ],
+    "topicsCovered": [
+    "1. Will Autonomous Robots Replace Human Workers in All Industries?",
+    "2. Is Blockchain the Future of Secure Data Transmission?",
+    "3. Are RISC (Reduced Instruction Set Computing) Architectures Superior to CISC (Complex Instruction Set Computing)?",
+    "4. Will Quantum Computing Replace Classical Computing in the foreseeable future?",
+    "5. Should Software Engineers Be Legally Liable for Software Failures?",
+    "6. Super/Quantum computers - a boon or bane?"
+  ],
   "contactPerson": [
     {
       "name": "Eswar D",
