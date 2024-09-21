@@ -227,7 +227,7 @@
   "image": "https://raw.githubusercontent.com/srmacevdp/assets/refs/heads/main/EVENT%20POSTER/TECHNICAL/tech3.png",
   "date": "26th September 2024",
   "time": "09.00 A.M. - 03.00 P.M",
-  "Fee": "₹100/- for an individual, ₹130/- for a team of 2 participants",
+  "fee": "₹100/- for an individual, ₹130/- for a team of 2 participants",
   "venue": "SRM IST VDP",
   "rules": [
     "Each team consists of two participants.",
