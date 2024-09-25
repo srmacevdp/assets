@@ -1,7 +1,7 @@
 [
   {
     "name": "The Nexus of Higher Studies: Opportunities Abroad",
-    "description": "Learn about opportunities for higher studies abroad in this two-day workshop.",
+    "description": "The session will mainly concentrate on the application process, necessary preparations, and the academic and cultural adjustments required for studying abroad. The session seamlessly blend practical information with personal anecdotes and cover practical tips, essential skills, and opportunities for studying abroad.",
     "image": "https://raw.githubusercontent.com/srmacevdp/assets/refs/heads/main/EVENT%20POSTER/WORKSHOPS/Nexus%20.png",
     "date": "6th August 2024",
     "time": "10:00 AM - 11:40 PM",
@@ -9,6 +9,27 @@
     "fee": "Rs 250",
     "topics": [
       "Explore Key Subject and Essential skills to Excel in Higher Education Pathway, with Special Focus on Oppurtunities in Cannada andn Ireland."
+    ],
+    "speakers": [
+      {
+        "name": "Preethi Raghuraman",
+        "title": "Master of Data Science and Artificial Intelligence"
+      }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScRNJaP-P_KRVTcxnqn0EeyUjjLtYIOk9kaKFXh_1DzTD3CQQ/closedform"
+  },
+   {
+    "name": "data analysis",
+    "description": "This session will set one’s sight on participants who will be taught data analysis, visualization tools, and how to make informed decisions. This seminar will emphasize both fundamental and advanced aspects of data analysis. The participants will be guided through various data analysis tools, including Jupyter Notebook, Google Colab, Power BI, and Tableau.",
+    "image": "https://raw.githubusercontent.com/srmacevdp/assets/refs/heads/main/EVENT%20POSTER/WORKSHOPS/Nexus%20.png",
+    "date": "6th August 2024",
+    "time": "10:00 AM - 11:40 PM",
+    "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
+    "fee": "Rs 250",
+    "topics": [
+      "TABLEU.",
+      "DATA ANALYSIS",
+      "IN-DEPTH UNDERSTANDING OF BIG DATA"
     ],
     "speakers": [
       {
