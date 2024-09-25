@@ -641,10 +641,10 @@
   "name": "Web Development: Building the Digital Frontier",
   "description": "This workshop will focus its attention on fundamental and advanced aspects of web development, including building websites using HTML, CSS, and popular frameworks such as React and Node.js. The participants will be guided through the process of building a functional website, providing hands-on experience with the tools and technologies involved.",
   "image": "https://raw.githubusercontent.com/srmacevdp/assets/refs/heads/main/EVENT%20POSTER/WORKSHOPS/web_develpment.png",
-  "date": "10th October 2024",
+  "date": "13th September 2024",
   "time": "10:00 AM - 03:00 PM",
-  "venue": "NS Lab, 2nd Floor, C Block, SRM IST VDP",
-  "fee": "₹200",
+  "venue": "Lab 2, 1st Floor, C Block, SRM IST VDP",
+  "fee": "₹100",
   "rules": [
     "Participants must attend the event in person at the given venue.",
     "Basic knowledge of web development and networking is preferred.",
@@ -660,15 +660,15 @@
   ],
   "contactPerson": [
     {
-      "name": "Athulya S S",
+      "name": "Pratham mehta",
       "phone": "+91 8939927354"
     },
     {
-      "name": "L Adithi",
+      "name": "Vedhika",
       "phone": "N/A"
     },
     {
-      "name": "Jothishreyaa",
+      "name": "Jothishreya",
       "phone": "N/A"
     }
   ],
