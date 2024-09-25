@@ -639,7 +639,7 @@
 },
   {
   "name": "Web Development: Building the Digital Frontier",
-  "description": "Enter the Cybersecurity Odyssey: Deciphering the Digital Realm! Explore the world of Cybersecurity, dissect its anatomy, and discover the art of mitigation. This hands-on workshop covers cybersecurity basics, its importance, technical skills, and live demonstrations of various tools. Join us for our Ubertech '23 Pre-Symposium Workshop to learn everything you need to know about securing the digital frontier.",
+  "description": "This workshop will focus its attention on fundamental and advanced aspects of web development, including building websites using HTML, CSS, and popular frameworks such as React and Node.js. The participants will be guided through the process of building a functional website, providing hands-on experience with the tools and technologies involved.",
   "image": "https://raw.githubusercontent.com/srmacevdp/assets/refs/heads/main/EVENT%20POSTER/WORKSHOPS/web_develpment.png",
   "date": "10th October 2024",
   "time": "10:00 AM - 03:00 PM",
@@ -649,13 +649,8 @@
     "Participants must attend the event in person at the given venue.",
     "Basic knowledge of web development and networking is preferred.",
     "No external tools or software will be required beyond what is provided at the workshop.",
-    "Participants are encouraged to bring laptops for hands-on learning, though it is not mandatory."
-  ],
-  "topicsCovered": [
-    "Cybersecurity basics",
-    "Importance of Cybersecurity",
-    "Technical skills and networking",
-    "Live demonstration of tools"
+    "Participants are encouraged to bring laptops for hands-on learning, though it is not mandatory.",
+    "Participants will have hands-on experience on html, css, js and making web app on their own."
   ],
   "resourcePersons": [
     {
